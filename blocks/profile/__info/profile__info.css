@@ -1,0 +1,14 @@
+.profile__info {
+    color: white;
+    padding-left: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .profile__info{
+        padding: 0;
+        padding-left: 0;
+        font-size: 27px;
+        line-height: 33px;
+        margin-left: 46px;
+    }
+}
