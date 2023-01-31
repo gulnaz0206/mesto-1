@@ -1,7 +1,6 @@
 .profile {
     margin: 0 auto 50px;
     max-width: 880px;
-    min-height: 120px;
     display: flex;
     justify-content: space-between;
 }
@@ -10,7 +9,6 @@
     .profile {
         margin: 0 auto 36px;
         max-width: 282px;
-        min-height: 286px;
         flex-direction: column;
     }
 }

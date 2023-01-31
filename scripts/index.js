@@ -6,7 +6,6 @@ const popupInputName = popupProfileForm.querySelector('.popup__input_type_name')
 const popupInputJob = popupProfileForm.querySelector('.popup__input_type_job');
 const profileName = document.querySelector('.profile__name');
 const profileJob = document.querySelector('.profile__job');
-const popupSubmitButton = popupProfile.querySelector('.popup__submit-button');
 
 
 const openPopup = function (popup) {

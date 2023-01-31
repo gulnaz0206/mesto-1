@@ -5,3 +5,10 @@
     position: relative;
     padding-bottom: 37px;
 }
+
+@media screen and (max-width: 600px) {
+    .popup__container {
+        min-width: 282px;
+        margin: 0 auto;
+    }
+}
