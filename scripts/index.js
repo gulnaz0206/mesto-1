@@ -1,4 +1,4 @@
-import initialCards from './data.js'
+import initialCards from './data.js';
 
 const cardsContainer = document.querySelector('.elements');
 
