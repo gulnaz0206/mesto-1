@@ -20,7 +20,7 @@ const popupPlaceName = document.querySelector('.popup__input_type_place');
 const popupPlaceLink = document.querySelector('.popup__input_type_link');
 const popupCreateButton = document.querySelector('.popup__create-button');
 const popupCloseCardElement = document.querySelector('.popup__close-button');
-const popupAddCardForm = document.querySelector('#add-form');
+const popupAddCardForm = document.querySelector('.popup__add_form');
 
 /*картинка*/
 const popupPicture = document.querySelector('#popup-picture');
